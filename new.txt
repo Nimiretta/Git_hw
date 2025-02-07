@@ -1,0 +1,4 @@
+Name: Tatiana Korol
+Age: 32
+Pets: 1 cat
+Salary: enough
